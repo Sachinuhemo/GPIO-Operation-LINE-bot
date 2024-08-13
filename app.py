@@ -1,4 +1,3 @@
-import linechannel
 import RPi.GPIO as GPIO
 from flask import Flask, request, abort
 from linebot.v3 import WebhookHandler
